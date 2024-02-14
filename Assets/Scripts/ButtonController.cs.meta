@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 228c21081ee4cff478b1d0254b6af854
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - settingsPanel: {instanceID: 0}
+  - infoPanel: {instanceID: 0}
+  - professionController: {instanceID: 0}
+  - questionsController: {instanceID: 0}
+  - myAudio: {instanceID: 0}
+  - randomSelection: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
